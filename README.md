@@ -3,11 +3,11 @@
 
 # D3-React-Component ![logo]( https://assets.gitlab-static.net/uploads/-/system/project/avatar/21666192/D3R.png?width=64 )
 
+## **Find the full respoitory on** [![Gitlab](https://badgen.net/badge/icon/gitlab?icon=gitlab&label)](https://gitlab.com/Native-Coder/d3-react-component)
+
 [![Coverage Status](https://coveralls.io/repos/gitlab/Native-Coder/d3-react-component/badge.svg?branch=master)](https://coveralls.io/gitlab/Native-Coder/d3-react-component?branch=master) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![build status](https://gitlab.com/Native-Coder/d3-react-component/badges/master/pipeline.svg)](https://gitlab.com/Native-Coder/d3-react-component/-/pipelines) [![dependency count: 0](https://badgen.net/bundlephobia/dependency-count/d3-react-component?color=green)](https://www.npmjs.com/package/d3-react-component) [![minzipped size](https://badgen.net/bundlephobia/minzip/d3-react-component)](https://bundlephobia.com/result?p=d3-react-component) [![Gitlab](https://badgen.net/badge/icon/gitlab?icon=gitlab&label)](https://gitlab.com/Native-Coder/d3-react-component) [![npm package](https://badgen.net/badge/icon/npm?icon=npm&label)](https://www.npmjs.com/package/d3-react-component)
 
 D3-React-Component provides a React component wrapper for **any** d3 visualization. The component is called "D3Canvas" and the entire package is only [1.9kb gzipped!](https://bundlephobia.com/result?p=d3-react-component)(Seriously, this README is bigger than the entire build at ~8kb)
-
-Find the full respoitory on [![Gitlab](https://badgen.net/badge/icon/gitlab?icon=gitlab&label)](https://gitlab.com/Native-Coder/d3-react-component)
 
 
 # Design Philosophies
