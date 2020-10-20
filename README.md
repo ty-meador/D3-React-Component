@@ -7,7 +7,7 @@
 
 D3-React-Component provides a React component wrapper for **any** d3 visualization. The component is called "D3Canvas" and the entire package is only [1.9kb gzipped!](https://bundlephobia.com/result?p=d3-react-component)(Seriously, this README is bigger than the entire build at ~8kb)
 
-Find the full respoitory on ![gitlab](https://badgen.net/badge/icon/gitlab?icon=gitlab&label)
+Find the full respoitory on [![Gitlab](https://badgen.net/badge/icon/gitlab?icon=gitlab&label)]
 
 
 # Design Philosophies
